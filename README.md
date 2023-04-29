@@ -101,6 +101,7 @@ https://github.com/FadMikhail/first/commit/15a666c90ef04a9e59173ea15c2e36831642e
 В качестве ответа добавьте ссылку на этот коммит в ваш md-файл с решением.
 
 1.
+![image](https://user-images.githubusercontent.com/132131230/235299123-04785a48-143c-488f-bcf0-bcbd4458862b.png)
 
 
 
