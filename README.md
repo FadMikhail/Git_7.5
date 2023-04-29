@@ -143,5 +143,6 @@ https://github.com/FadMikhail/first/commit/6c6ddacb9382c5c91a5c775e0faa14c8816f8
 
 В качестве ответа прикрепите ссылку на граф коммитов https://github.com/ваш-логин/ваш-репозиторий/network в ваш md-файл с решением.
 
+![image](https://user-images.githubusercontent.com/132131230/235301149-360d951b-b518-4184-b527-04d09e9aa105.png)
 
 
