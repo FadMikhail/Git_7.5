@@ -27,33 +27,51 @@
 Задание 1
 Что нужно сделать:
 
-1. Зарегистрируйте аккаунт на GitHub....
+1. Зарегистрируйте аккаунт на GitHub.
 2. Создайте публичный репозиторий. Обязательно поставьте галочку в поле «Initialize this repository with a README».
 3. Склонируйте репозиторий, используя https протокол git clone ....
 4. Перейдите в каталог с клоном репозитория.
-5.Произведите первоначальную настройку Git, указав своё настоящее имя и email: git config --global user.name и git config --global user.email johndoe@example.com.
-6.Выполните команду git status и запомните результат.
-7.Отредактируйте файл README.md любым удобным способом, переведя файл в состояние Modified.
-8.Ещё раз выполните git status и продолжайте проверять вывод этой команды после каждого следующего шага.
-9.Посмотрите изменения в файле README.md, выполнив команды git diff и git diff --staged.
-10.Переведите файл в состояние staged или, как говорят, добавьте файл в коммит, командой git add README.md.
-11.Ещё раз выполните команды git diff и git diff --staged.
-12.Теперь можно сделать коммит git commit -m 'First commit'.
-13.Сделайте git push origin master.
-14.В качестве ответа добавьте ссылку на этот коммит в ваш md-файл с решением.
+5. Произведите первоначальную настройку Git, указав своё настоящее имя и email: git config --global user.name и git config --global user.email johndoe@example.com.
+6. Выполните команду git status и запомните результат.
+7. Отредактируйте файл README.md любым удобным способом, переведя файл в состояние Modified.
+8. Ещё раз выполните git status и продолжайте проверять вывод этой команды после каждого следующего шага.
+9. Посмотрите изменения в файле README.md, выполнив команды git diff и git diff --staged.
+10. Переведите файл в состояние staged или, как говорят, добавьте файл в коммит, командой git add README.md.
+11. Ещё раз выполните команды git diff и git diff --staged.
+12. Теперь можно сделать коммит git commit -m 'First commit'.
+13. Сделайте git push origin master.
+14. В качестве ответа добавьте ссылку на этот коммит в ваш md-файл с решением.
 
 1.
 ![image](https://user-images.githubusercontent.com/132131230/235297128-5c6b2c31-fbe9-4393-b0b2-438e72cb9058.png)
 2.
 ![image](https://user-images.githubusercontent.com/132131230/235297179-ae9ce883-bb00-47b8-829f-9aa561fc2729.png)
+3.
+![image](https://user-images.githubusercontent.com/132131230/235297440-f704ddca-f6c1-47c7-9660-6b182f76ac59.png)
+5.
+![image](https://user-images.githubusercontent.com/132131230/235297483-9e1634d7-191d-4372-af37-795e9179fcd2.png)
+6.
+![image](https://user-images.githubusercontent.com/132131230/235297513-7e91e7bc-ec11-482b-a5d6-e8475b2aae6b.png)
+7.
+![image](https://user-images.githubusercontent.com/132131230/235297574-c076737b-c752-4189-b69e-aeab1728f08b.png)
+8.
+![image](https://user-images.githubusercontent.com/132131230/235297586-1154c0d5-392c-4e98-8780-0dd8630f1a4a.png)
+9.
+![image](https://user-images.githubusercontent.com/132131230/235297607-679928b4-89a1-4eb0-b109-3d07e301343c.png)
+10.
+![image](https://user-images.githubusercontent.com/132131230/235297622-00c77c82-1035-4e5f-9dc9-58b5ae231944.png)
+11.
+![image](https://user-images.githubusercontent.com/132131230/235297643-6e725219-c438-44bc-a179-af246b9edd01.png)
+12.
+![image](https://user-images.githubusercontent.com/132131230/235297676-943b50bd-fb8c-49ad-a6de-fd35e2e23fa7.png)
+13.
+![image](https://user-images.githubusercontent.com/132131230/235297702-582007cd-8360-45a3-ad76-1aae3d3c37fb.png)
+
+14.https://github.com/FadMikhail/first.git
 
 
 
-`Приведите ответ в свободной форме........`
 
-https://github.com/FadMikhail/home.git
-
-![image](https://user-images.githubusercontent.com/132131230/235296846-11380715-2ce6-4d4f-bf48-c72f85dc9665.png)
 
 ---
 
