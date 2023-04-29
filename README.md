@@ -26,7 +26,7 @@
 
 `Приведите ответ в свободной форме........`
 
-[https://github.com/FadMikhail/home.git]
+https://github.com/FadMikhail/home.git
 
 ---
 
