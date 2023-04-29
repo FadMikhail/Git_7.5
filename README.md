@@ -81,7 +81,7 @@
 ![image](https://user-images.githubusercontent.com/132131230/235297702-582007cd-8360-45a3-ad76-1aae3d3c37fb.png)
 
 https://github.com/FadMikhail/first.git
-
+https://github.com/FadMikhail/first/commit/15a666c90ef04a9e59173ea15c2e36831642e67a
 
 
 
@@ -96,7 +96,12 @@ https://github.com/FadMikhail/first.git
 2. Добавьте файл .gitignore в следующий коммит git add....
 3. Напишите правила в этом файле, чтобы игнорировать любые файлы .pyc, а также все файлы в директории cache.
 4. Сделайте коммит и пуш.
-5. В качестве ответа добавьте ссылку на этот коммит в ваш md-файл с решением.
+
+В качестве ответа добавьте ссылку на этот коммит в ваш md-файл с решением.
+
+1.
+
+
 
 
 ---
