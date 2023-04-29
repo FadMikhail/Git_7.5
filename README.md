@@ -117,6 +117,8 @@ https://github.com/FadMikhail/first/commit/6c6ddacb9382c5c91a5c775e0faa14c8816f8
 
 ---
 
+### Задание 3
+
 Что нужно сделать:
 
 1. Создайте новую ветку dev и переключитесь на неё.
