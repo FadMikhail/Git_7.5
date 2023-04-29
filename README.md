@@ -92,24 +92,22 @@ https://github.com/FadMikhail/first/commit/15a666c90ef04a9e59173ea15c2e36831642e
 Что нужно сделать:
 
 1. Создайте файл .gitignore (обратите внимание на точку в начале файла) и проверьте его статус сразу после создания.
-2. Добавьте файл .gitignore в следующий коммит git add....
-3. Напишите правила в этом файле, чтобы игнорировать любые файлы .pyc, а также все файлы в директории cache.
-4. Сделайте коммит и пуш.
 
-В качестве ответа добавьте ссылку на этот коммит в ваш md-файл с решением.
-
-1.
 ![image](https://user-images.githubusercontent.com/132131230/235299123-04785a48-143c-488f-bcf0-bcbd4458862b.png)
 
-2.
+2. Добавьте файл .gitignore в следующий коммит git add....
+
 ![image](https://user-images.githubusercontent.com/132131230/235299232-a3e72e22-9371-4812-bfad-b97560b99c4c.png)
 
-3.
+3. Напишите правила в этом файле, чтобы игнорировать любые файлы .pyc, а также все файлы в директории cache.
+
 ![image](https://user-images.githubusercontent.com/132131230/235299367-56b63ba4-e47e-40b5-92a8-e766e8b5f34c.png)
 
-4.
+4. Сделайте коммит и пуш.
 
 ![image](https://user-images.githubusercontent.com/132131230/235299469-b0a2e763-75cc-47cc-a77c-3c9fbb49b6ce.png)
+
+В качестве ответа добавьте ссылку на этот коммит в ваш md-файл с решением.
 
 https://github.com/FadMikhail/first.git
 
