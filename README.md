@@ -40,7 +40,8 @@
 11. Ещё раз выполните команды git diff и git diff --staged.
 12. Теперь можно сделать коммит git commit -m 'First commit'.
 13. Сделайте git push origin master.
-14. В качестве ответа добавьте ссылку на этот коммит в ваш md-файл с решением.
+
+В качестве ответа добавьте ссылку на этот коммит в ваш md-файл с решением.
 
 ---
 1. 
@@ -79,7 +80,7 @@
 13. 
 ![image](https://user-images.githubusercontent.com/132131230/235297702-582007cd-8360-45a3-ad76-1aae3d3c37fb.png)
 
-14. https://github.com/FadMikhail/first.git
+https://github.com/FadMikhail/first.git
 
 
 
