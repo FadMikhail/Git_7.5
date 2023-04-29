@@ -28,6 +28,8 @@
 
 https://github.com/FadMikhail/home.git
 
+![image](https://user-images.githubusercontent.com/132131230/235296846-11380715-2ce6-4d4f-bf48-c72f85dc9665.png)
+
 ---
 
 ### Задание 2
