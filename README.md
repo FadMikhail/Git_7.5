@@ -28,7 +28,7 @@
 
 [https://github.com/FadMikhail/home.git]
 
-```
+---
 
 ### Задание 2
 
