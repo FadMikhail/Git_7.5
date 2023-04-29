@@ -42,6 +42,7 @@
 13. Сделайте git push origin master.
 14. В качестве ответа добавьте ссылку на этот коммит в ваш md-файл с решением.
 
+
 1.
 ![image](https://user-images.githubusercontent.com/132131230/235297128-5c6b2c31-fbe9-4393-b0b2-438e72cb9058.png)
 2.
