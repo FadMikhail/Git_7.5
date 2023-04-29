@@ -141,7 +141,7 @@ https://github.com/FadMikhail/first/commit/6c6ddacb9382c5c91a5c775e0faa14c8816f8
 
 5.  Сделайте коммит и пуш.
 
-
-
 В качестве ответа прикрепите ссылку на граф коммитов https://github.com/ваш-логин/ваш-репозиторий/network в ваш md-файл с решением.
+
+
 
